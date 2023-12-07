@@ -92,14 +92,15 @@ Na ultima sprint apresentamos uma melhoria no layout atual da empresa e também 
 
 
 ## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+- [x] Canvas
+- [x] Microsoft Excel
+- [x] Microsoft Teams  
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+- [x] Adobe Photoshop
+- [x] Keyence Sensores 
 
 # Cronograma das Sprints
 
@@ -164,9 +165,9 @@ Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel
 | Função | Nome | GitHub |
 | - | - | - |
 |Product Owner| Ricardo Siqueira |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rayzival)|
-|Scrum Master| Bianca Faria |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Cristovão Ferreira |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Fernanda Medeiros |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Luis Gustavo |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| Yasmin Nunes |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Bianca Faria |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiancaFaria97)|
+|Team Member| Cristovão Ferreira |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/minhosinho22)|
+|Team Member| Fernanda Medeiros |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fernandafateckj)|
+|Team Member| Luis Gustavo |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizGustav1)|
+|Team Member| Yasmin Nunes |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YasminSouza9)|
 
