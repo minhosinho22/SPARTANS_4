@@ -106,7 +106,7 @@ Na ultima sprint apresentamos uma melhoria no layout atual da empresa e também 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel encontar as datas das atividades e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/minhosinho22/Spartans/blob/main/cronograma.png)
 
 
 <p align="center">
