@@ -1,6 +1,10 @@
 # SPARTANS_4
 # Aprendizado por Projeto Integrado (API) - Template
 
+<p align="center">
+ <img src="https://github.com/minhosinho22/Spartans/blob/main/ph%2Bsp.png" width="100%"/>
+</p>
+
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -51,6 +55,7 @@ Os Grupos SPARTANS e PHOENIX tem o objetivo de explorar as melhorias de Layout b
 ## Sprint 1
 
 Nessa sprint nós fomos convidados a visitar as instalações da empresa parceira para ver como era a produção e ter uma idéia melhor de como poderiamos abordar o tema escolhido.
+Até então os Grupos Phoenix e Spartans atuaram sepadaramente.
 
 
 <p align="center">
@@ -58,7 +63,9 @@ Nessa sprint nós fomos convidados a visitar as instalações da empresa parceir
 </p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
+
+Nessa sprint foi proposta a união das equipes que iriam abordar o mesmo tema, vendo que não havia "muito espaço" para idéias distintas e os dois grupos ficariam presos a resultados parecidos.
+
 
 
 <p align="center">
