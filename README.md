@@ -62,11 +62,13 @@ Até então os Grupos Phoenix e Spartans atuaram sepadaramente.
 ## Sprint 2
 
 Nessa sprint foi proposta a união das equipes que iriam abordar o mesmo tema, vendo que não havia "muito espaço" para idéias distintas e os dois grupos ficariam presos a resultados parecidos.
-
+Temas Abordados
+- [ ] "Poka Yoke"
+- [ ] "Diagrama de Espaguete"
 
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
+ <img src="https://github.com/minhosinho22/Spartans/blob/main/13.png" width="100%"/>
 </p>
 
 ## Sprint 3
