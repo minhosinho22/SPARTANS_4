@@ -49,11 +49,12 @@ Os Grupos SPARTANS e PHOENIX tem o objetivo de explorar as melhorias de Layout b
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
+
+Nessa sprint nós fomos convidados a visitar as instalações da empresa parceira para ver como era a produção e ter uma idéia melhor de como poderiamos abordar o tema escolhido.
 
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+ <img src="https://github.com/minhosinho22/Spartans/blob/main/5.png" width="100%"/>
 </p>
 
 ## Sprint 2
