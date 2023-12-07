@@ -120,29 +120,29 @@ Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel
 
 ## Sprint 1 - Concepção
 
--[ ] "Visitar a empresa"
--[ ] "Analisar Layout da empresa"
--[ ] "Analisar sequência de processos"
+- [x] "Visitar a empresa"
+- [x] "Analisar Layout da empresa"
+- [x] "Analisar sequência de processos"
 
 ## Sprint 2 - Desenvolvimento do Projeto
 
--[ ] "Levantamento de etapas de produção"
--[ ] "Analisar utilziação de maquinas"
--[ ] "Apresentar Layout Linear e U"
--[ ] "Introduzir a idéia de Poka Yoke"
+- [x] "Levantamento de etapas de produção"
+- [x] "Analisar utilziação de maquinas"
+- [x] "Apresentar Layout Linear e U"
+- [x] "Introduzir a idéia de Poka Yoke"
       
 ## Sprint 3 - Implementação
 
--[ ] "Levantamento sobre estoque intermediário"
--[ ] "Pesquisa sobre Poka Yoke"
--[ ] "Pesquisa sobre sensores"
--[ ] "Atualização dos Layouts"
+- [x] "Levantamento sobre estoque intermediário"
+- [x] "Pesquisa sobre Poka Yoke"
+- [x] "Pesquisa sobre sensores"
+- [x] "Atualização dos Layouts"
       
 ## Sprint 4 - Operacionalização
 
--[ ] "Levantamento dos preços dos sensores"
--[ ] "Pesquisa sobre aplicação dos sensores"
--[ ] "Finalização do Layout"
+- [x] "Levantamento dos preços dos sensores"
+- [x] "Pesquisa sobre aplicação dos sensores"
+- [x] "Finalização do Layout"
 
 
 # Competências desenvolvidas
@@ -164,7 +164,7 @@ Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel
 
 
 # Autores
-| Função | Nome |  LinkedIn & GitHub |
+| Função | Nome | GitHub |
 | - | - | - |
 |Product Owner| |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
