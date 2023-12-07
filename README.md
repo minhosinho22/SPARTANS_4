@@ -63,6 +63,7 @@ Até então os Grupos Phoenix e Spartans atuaram sepadaramente.
 
 Nessa sprint foi proposta a união das equipes que iriam abordar o mesmo tema, vendo que não havia "muito espaço" para idéias distintas e os dois grupos ficariam presos a resultados parecidos.
 Temas Abordados
+
 - [ ] "Poka Yoke"
 - [ ] "Diagrama de Espaguete"
 
@@ -72,10 +73,11 @@ Temas Abordados
 </p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
+
+Nessa sprint apresentamos algumas ideias de Layouts diferentes dos utilizados pela empresa e também trouxemos ideias de sensores Keyence para implementação do Poka Yoke abordado na sprint anterior.
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
+ <img src="https://github.com/minhosinho22/Spartans/blob/main/diagr.png" width="100%"/>
 </p>
 
 ## Sprint 4
