@@ -119,33 +119,39 @@ Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+-[x] Visitar a empresa
+-[x] Analisar Layout da empresa
+-[x] Analisar sequência de processos
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+-[x] Levantamento de etapas de produção
+-[x] Analisar utilziação de maquinas
+-[x] Apresentar Layout Linear e U
+-[x] Introduzir a idéia de Poka Yoke
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+-[x] Levantamento sobre estoque intermediário
+-[x] Pesquisa sobre Poka Yoke
+-[x] Pesquisa sobre sensores
+-[x] Atualização dos Layouts
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+-[x] Levantamento dos preços dos sensores
+-[x] Pesquisa sobre aplicação dos sensores
+-[x] FInalização do Layout
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+
 
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -153,14 +159,6 @@ Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
