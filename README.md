@@ -81,11 +81,12 @@ Nessa sprint apresentamos algumas ideias de Layouts diferentes dos utilizados pe
 </p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
+
+Na ultima sprint apresentamos uma melhoria no layout atual da empresa e também buscamos uma solução de Poka Yoke com a empresa de um membro de um outro grupo da nossa classe, que estava abordando o tema de Estoque intermediário.
 
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
+ <img src="https://github.com/minhosinho22/Spartans/blob/main/15.png" width="100%"/>
 </p>
 
 
