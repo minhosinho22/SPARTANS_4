@@ -102,7 +102,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma desse projeto, lá é possivel encontar as datas das atividades e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
@@ -114,8 +114,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
 </p>
 
-## Burndown
->Colocar aqui Burndown do projeto
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
