@@ -1,9 +1,6 @@
 # SPARTANS_4
 # Aprendizado por Projeto Integrado (API) - Template
 
-<p align="center">
- <img src="https://github.com/minhosinho22/Spartans/blob/main/ph%2Bsp.png" width="100%"/>
-</p>
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
